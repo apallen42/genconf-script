@@ -12,6 +12,7 @@ The package allows the user to interact with footnotes from talks given at the G
 #### Example Usage
 
 `import pandas as pd`
+
 `from genconf_script import get_conf_urls, scrape_talk_footnotes as scrape, check_verse`
 
 Obtain the URLs in question.
