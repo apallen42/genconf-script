@@ -1,4 +1,4 @@
-# genconf_script
+# genconf-script
 
 ### Description
 This is a simple Python package created as a proof-of-concept and side project to demonstrate web scraping and simple package creation skills. The subject matter for this package was chosen primarily for its familiarity to the package's creator.
