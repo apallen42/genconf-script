@@ -16,7 +16,7 @@ The package allows the user to interact with footnotes from talks given at the G
 
 Obtain the URLs in question.
 
-`urls = get_conf_urls([2021,2022])`
+`conf_urls = get_conf_urls([2021,2022])`
 
 Scrape footnote references from all of the talks in question.
 
